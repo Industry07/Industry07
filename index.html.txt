@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<title>WELCOME </title>
+</head>
+<body>
+<h1>GANAPATI BAPPA MORYA...!!!</h1>
+<img src="C:\Users\DELL\Downloads\ganapati.jpg" >
+</body>
+</html> 
